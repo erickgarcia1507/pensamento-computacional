@@ -5,4 +5,14 @@
  <meta http-equiv='X-UA-compatible'content='IE=edge'>
  <title> TITULO DA ABA </title>
  <meta name='viewport'content='width=device-width, initial-scale 
- <link rel='stylestreet'
+ <link rel='stylestreet'type='text/CSS'media='screen'hrel='style.CSS'>
+ <script src='main.js'></script>
+</head>
+<body>
+ <header><p><img id="TITULOIMAGEM"src="logo.jpeg
+alt="DESCRICAOIMAGEM"></p>
+  <nav>
+   <ul id="lista01">
+    <li><a target="_blank"href="index.html">Home
+    </li>
+    <li>
